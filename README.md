@@ -77,6 +77,4 @@ Madhuri Shivsharan
 
 Aspiring Data Analyst
 
-LinkedIn: Madhuri Shivsharan | LinkedIn
 
-GitHub: madhuri-shivhsharan (Madhuri Shivsharan)
