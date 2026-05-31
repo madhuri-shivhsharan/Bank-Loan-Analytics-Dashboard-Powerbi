@@ -22,7 +22,7 @@ The dashboard helps stakeholders monitor loan performance, identify trends, and 
 ---
 ## Dashboard Pages
 ### 1. Overview Dashboard
-
+![Overview_Dashboard](Images/Overview_Dashboard.png)
 Provides a high-level view of:
 
 - Monthly Loan Application Trend
@@ -32,7 +32,7 @@ Provides a high-level view of:
 - Loan Purpose Analysis
 
 ### 2. Summary Dashboard
-
+![Summary_Dashboard](Images/Summary_Dashboard.png)
 Provides detailed loan performance insights:
 
 - Good Loan vs Bad Loan Analysis
