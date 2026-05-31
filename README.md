@@ -1,4 +1,4 @@
-# Bank-Loan-Analytics-Dashboard-Powerbi
+# Bank-Loan-Analytics-Dashboard-Power Bi
 ## Project Overview
 
 This project analyzes bank loan data using Power BI to provide insights into loan applications, funded amounts, repayments, interest rates, and borrower profiles.
@@ -31,7 +31,7 @@ Provides detailed loan performance insights:
 - Loan Status Analysis
 - Interest Rate Analysis
 - DTI Ratio Analysis
-- 
+ 
 ### 2. Overview Dashboard
 <img src="Overview_Dashboard.png" width="800">
 
@@ -67,7 +67,7 @@ Provides a high-level view of:
 ## Project Files
 
 - Power BI Dashboard (.pbix)
-- Dataset (.xlsx/)
+- Dataset (.xlsx)
 - Dashboard Screenshots
 
   ---
@@ -77,5 +77,6 @@ Madhuri Shivsharan
 
 Aspiring Data Analyst
 
-LinkedIn: Add Your LinkedIn Profile Here
-GitHub: Add Your GitHub Profile Here
+LinkedIn: Madhuri Shivsharan | LinkedIn
+
+GitHub: madhuri-shivhsharan (Madhuri Shivsharan)
