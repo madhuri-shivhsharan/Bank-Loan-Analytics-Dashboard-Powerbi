@@ -21,7 +21,18 @@ The dashboard helps stakeholders monitor loan performance, identify trends, and 
 - Average DTI Ratio
 ---
 ## Dashboard Pages
-### 1. Overview Dashboard
+### 1. Summary Dashboard
+<img src="Summary_Dashboard.png" width="800">
+
+Provides detailed loan performance insights:
+
+- Good Loan vs Bad Loan Analysis
+- Funded Amount vs Repayment
+- Loan Status Analysis
+- Interest Rate Analysis
+- DTI Ratio Analysis
+- 
+### 2. Overview Dashboard
 <img src="Overview_Dashboard.png" width="800">
 
 Provides a high-level view of:
@@ -32,16 +43,7 @@ Provides a high-level view of:
 - Home Ownership Analysis
 - Loan Purpose Analysis
 
-### 2. Summary Dashboard
-<img src="Summary_Dashboard.png" width="800">
 
-Provides detailed loan performance insights:
-
-- Good Loan vs Bad Loan Analysis
-- Funded Amount vs Repayment
-- Loan Status Analysis
-- Interest Rate Analysis
-- DTI Ratio Analysis
 ---
 ## Business Insights
 
